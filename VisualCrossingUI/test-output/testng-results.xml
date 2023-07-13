@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="5" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-13T09:15:33 IST" name="Suite" finished-at="2023-07-13T09:15:42 IST" duration-ms="9486">
+    <groups>
+    </groups>
+    <test started-at="2023-07-13T09:15:33 IST" name="Test3" finished-at="2023-07-13T09:15:33 IST" duration-ms="18">
+      <class name="TestCases.WeatherDataPageHistoricalTest">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:TestCases.WeatherDataPageHistoricalTest@47caedad]" started-at="2023-07-13T09:15:29 IST" name="initializeDriver" finished-at="2023-07-13T09:15:32 IST" duration-ms="2411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.WeatherDataPageHistoricalTest@47caedad]" started-at="2023-07-13T09:15:32 IST" name="setUp" finished-at="2023-07-13T09:15:33 IST" duration-ms="1065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:TestCases.WeatherDataPageHistoricalTest@47caedad]" started-at="2023-07-13T09:15:42 IST" name="closeDriver" finished-at="2023-07-13T09:15:42 IST" duration-ms="379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- TestCases.WeatherDataPageHistoricalTest -->
+    </test> <!-- Test3 -->
+    <test started-at="2023-07-13T09:15:33 IST" name="Test1" finished-at="2023-07-13T09:15:40 IST" duration-ms="7196">
+      <class name="TestCases.HomePageTest">
+        <test-method signature="testHomePage()[pri:1, instance:TestCases.HomePageTest@298a5e20]" started-at="2023-07-13T09:15:33 IST" name="testHomePage" finished-at="2023-07-13T09:15:40 IST" duration-ms="7137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePage -->
+      </class> <!-- TestCases.HomePageTest -->
+    </test> <!-- Test1 -->
+    <test started-at="2023-07-13T09:15:33 IST" name="Test2" finished-at="2023-07-13T09:15:42 IST" duration-ms="9486">
+      <class name="TestCases.WeatherDataPageTest">
+        <test-method is-config="true" signature="initializeWeatherDataPage()[pri:0, instance:TestCases.WeatherDataPageTest@548d708a]" started-at="2023-07-13T09:15:33 IST" name="initializeWeatherDataPage" finished-at="2023-07-13T09:15:40 IST" duration-ms="7236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeWeatherDataPage -->
+        <test-method signature="testWeatherDataPage()[pri:2, instance:TestCases.WeatherDataPageTest@548d708a]" started-at="2023-07-13T09:15:40 IST" name="testWeatherDataPage" finished-at="2023-07-13T09:15:42 IST" duration-ms="2218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWeatherDataPage -->
+      </class> <!-- TestCases.WeatherDataPageTest -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
