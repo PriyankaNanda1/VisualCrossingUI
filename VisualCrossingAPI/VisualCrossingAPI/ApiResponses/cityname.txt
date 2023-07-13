@@ -1,0 +1,1 @@
+Bad API Request:Must specify either location list or input datasource
